@@ -27,7 +27,7 @@ import ButtonX from './components/Button1.vue'
 
 <script setup>
 const namaLengkap = 'Zikri Maarif';
-const biodata = 'Seorang adalah mahasiswa yang sedang belajar tentang pengembangan web. Saya lahir pada tahun 2003, dan saat ini saya berumur 20 tahun';
+const biodata = 'Saya adalah seorang mahasiswa yang sedang belajar tentang pengembangan web. Saya lahir pada tahun 2003, dan saat ini saya berumur 20 tahun';
 const keterampilanKemampuan = ['HTML', 'CSS', 'JavaScript'];
 const pengalamanDimiliki = [
   { title: 'Magang di Perusahaan X', deskripsi: 'Belajar dasar-dasar pengembangan web dan bekerja dalam proyek kecil.' },
